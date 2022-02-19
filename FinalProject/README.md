@@ -1,23 +1,20 @@
-# SBae_FinalProject
+Covid-19 Database Application
 Samantha Bae
-2342931
 sabae@chapman.edu
-CPSC 408 - 02
-Final Project
 
 Source Files:
 -app.py
 -helper.py
 
-References
-- Notes
-- Zybooks
+Summary:
+- Application that allows users to query, manage, and sort through Covid-19 kaggle datasets. The datasets contain data about active, recovered, death, and confirmed cases within     Global locations. 
+- Application utilizes python, pandas, SQL, and the Google Cloud platform.
 
-Known Errors:
-- no errors
-
-Tools to install:
-pandas
+Instructions to run:
+- Clone the repository
+- Move to directory in command prompt
+- Run helper.py file to upload data to cloud
+- Run app.py file and enjoy!
 
 Imports:
 import mysql.connector
